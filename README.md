@@ -2,7 +2,11 @@
 
 ### Getting and Cleaning Data Course @ Data Science - Peer Assesment Submission
 
-### This repository contains a R-Script file 'run_analysis.R'.
+### This repository contains the following 
+* R-Script file 'run_analysis.R'.
+* Tidy data set 'tidyData.txt'
+* Code book to tidy data set 'Codebook.md'
+
 ### Below is step by step execution of this script
 
 * Read Activity Labels from 'activity_labels.txt'
